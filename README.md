@@ -20,3 +20,19 @@ Run the following command to start Project:
 ```bash
 npm start
 ```
+
+### Building distributables
+
+Run the following command to Build your Project:
+
+```bash
+npm run make
+```
+
+### Publishing your app
+
+Run the following command to Publish your Project:
+
+```bash
+npm run publish
+```
